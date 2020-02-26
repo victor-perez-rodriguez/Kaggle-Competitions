@@ -8,7 +8,7 @@ Build a predictive model that answers the question: “what sorts of people were
 - Data wrangling
 - Data transformation
 - Prediction Models: Logistic Regression, KNN, Random Forest, Xgboost
-- Hypter-parameter tunning: GridSearchCV
+- Hyper-parameter tunning: GridSearchCV
 - Ensemble
 
 ### Libraries used:

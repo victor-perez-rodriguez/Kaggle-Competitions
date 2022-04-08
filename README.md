@@ -1,3 +1,3 @@
-# My Projects:
-- Predicting House Prices (Kaggle)
-- Survival in the Titanic (Kaggle)
+# Kaggle Competitions:
+- Predicting House Prices
+- Survival in the Titanic
